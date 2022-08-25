@@ -36,8 +36,6 @@ unzip hw09.zip
 
 First, check that a file named `sqlite_shell.py` exists alongside the assignment files. If you don't see it, or if you encounter problems with it, scroll down to the Troubleshooting section to see how to download an official precompiled SQLite binary before proceeding.
 
-> **Note**: The default `sqlite_shell.py` is empty, which is to encourage you to manually config a sqlite environment. However, to make the ok autograder work, you need a version of `sqlite_shell.py` as support. I have provided it in the `solution` folder, you may need to copy and paste the content of `solution/sqlite_shell.py`  to get your ok autograder to work.
-
 You can start an interactive SQLite session in your Terminal or Git Bash with the following command:
 
 ```shell
